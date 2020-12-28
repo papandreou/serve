@@ -1,5 +1,5 @@
 {
-  "name": "serve",
+  "name": "berve",
   "version": "11.3.2",
   "description": "Static file serving and directory listing",
   "scripts": {
@@ -10,9 +10,9 @@
   "files": [
     "bin"
   ],
-  "repository": "zeit/serve",
+  "repository": "papandreou/serve",
   "bin": {
-    "serve": "./bin/serve.js"
+    "berve": "./bin/serve.js"
   },
   "keywords": [
     "now",
